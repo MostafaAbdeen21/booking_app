@@ -4,8 +4,8 @@ setup instructions :
 2- in terminal write "flutter pub get"
 3- then "flutter run"
   ----------------------------------- OR -----------------------------------
-open this path in file "app\build\app\outputs\apk\release"
-there is a apk version for the application 
+download < apk > version from th link below
+https://drive.google.com/drive/folders/1WwLpvfexGLWbsuOdJbPhU3qckDHrANcR
 
 App Architecture:
 
